@@ -130,7 +130,7 @@ jvb:
   service:
     enabled: true
     type: LoadBalancer
-    externalIPs: [] # Und hier _vermutlich_ auch. Werde's noch testen
+    externalIPs: []
 
   breweryMuc: jvbbrewery
 
